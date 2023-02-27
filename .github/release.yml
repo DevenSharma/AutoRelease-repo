@@ -3,15 +3,11 @@ changelog:
   - title: Breaking Changes
     labels:
     - Semver-Major
-    - breaking
-  - title: Features 
+    - breaking-change
+  - title: Exciting New Features :tada:
     labels:
     - Semver-Minor
     - feat
-  - title: Bug fixes 
-    labels:
-    - Semver-Patch
-    - bug
   - title: Other Changes
     labels:
        - “*”
